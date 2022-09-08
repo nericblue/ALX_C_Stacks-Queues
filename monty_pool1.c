@@ -1,9 +1,3 @@
-/*
- * File name:	func_pool1.c
- * Authors:	Luis Miguel Vargas
- *		Robinson Montes
- */
-
 #include "monty.h"
 
 /**

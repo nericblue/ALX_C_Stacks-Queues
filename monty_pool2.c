@@ -1,9 +1,3 @@
-/*
- * File name:	monty_pool2.c
- * Authors:	Luis Miguel Vargas
- *		Robinson Montes
- */
-
 #include "monty.h"
 
 /**

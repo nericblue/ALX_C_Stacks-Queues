@@ -1,9 +1,3 @@
-/*
- * File name: errors.c
- * Authors:	Luis Miguel Vargas
- *		Robinson Montes
- */
-
 #include "monty.h"
 
 /**
